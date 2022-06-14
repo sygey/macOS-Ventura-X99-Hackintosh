@@ -1,4 +1,4 @@
-# macOS-Ventura-X99-Hackintosh
+# macOS-Ventura-X99-Hackintosh (Gigabyte X99 Ultra Gaming, i7-6850K, RX5700XT)
 
 [GUIDE] Install macOS-Ventura OpenCore Botloader UEFI
 
