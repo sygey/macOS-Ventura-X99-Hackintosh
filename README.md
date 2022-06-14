@@ -21,7 +21,7 @@ For Name: type USB (You can rename it later)
 For Format: choose Mac OS Extended (Journaled) GUID
 Click Erase then Done
 Copy paste the falowing command in terminal; sudo /Applications/Install\ macOS\ Ventura.app/Contents/Resources/createinstallmedia --volume /Volumes/USB --nointeraction && say Ventura Drive Created ( change (USB) with your erased usb name)
-STEP 3 Replace your EFI folder with mine from; X99 i7-6850K _RX5800XT_OC_VENTURA_14.06.2022
+STEP 3 Replace your EFI folder with mine from; X99 i7-6850K _RX5700XT_OC_VENTURA_14.06.2022
 
 STEP 4: Recommended BIOS Settings in general
 
@@ -63,7 +63,7 @@ Press the hotkey to choose boot device (F12 for Gigabyte motherboards, F8 for AS
 Choose USB
 At the Boot Screen, choose your new macOS Ventura installation.
 Complete macOS Ventura setup
-Replace your EFI folder from EFI with mine and reboot; X99 i7-6850K _RX5800XT_OC_VENTURA_14.06.2022
+Replace your EFI folder from EFI with mine and reboot; X99 i7-6850K _RX5700XT_OC_VENTURA_14.06.2022
 At the Boot Screen, choose your new macOS Ventura HDD.
 Reboot
 You are done.. installation is complete, you have a full functional X99 Hackintosh !
