@@ -1,6 +1,6 @@
-# macOS-Ventura-X99-Hackintosh (Gigabyte X99 Ultra Gaming, i7-6850K, RX5700XT)
+# macOS-Ventura-X99-Hackintosh (Gigabyte X99 Ultra Gaming, i7-6850K, RX5700XT) OpenCore Bootloader
 
-[GUIDE] Install macOS-Ventura OpenCore Botloader UEFI
+[GUIDE] Install macOS-Ventura OpenCore Bootloader UEFI
 
 STEP 1: Download macOS Ventura
 
